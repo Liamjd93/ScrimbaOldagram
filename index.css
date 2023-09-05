@@ -1,0 +1,22 @@
+/* HTML ELEMENTS */
+
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 375px;
+}
+
+header {
+    border-bottom: 1.5px solid #c6c6c6;
+}
+
+/* CLASSES */
+
+.oldagram-logo {
+    width: 127px;
+}
+
+.avatar {
+    width: 34px;
+    border-radius: 50%;
+}
