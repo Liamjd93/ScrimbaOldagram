@@ -4,6 +4,8 @@ html, body {
     margin: 0;
     padding: 0;
     width: 375px;
+    font-family: 'Source Code Pro';
+    letter-spacing: -1px;
 }
 
 header {
@@ -18,5 +20,43 @@ header {
 
 .avatar {
     width: 34px;
+    height: 34px;
     border-radius: 50%;
+}
+
+.post-user-details {
+    display: flex;
+    padding: 10px;
+}
+
+.name-location {
+    height: 34px;
+    margin-left: 7px;
+}
+
+.post {
+    margin: 0;
+}
+
+.name {
+    font-size: 13px;
+    font-weight: 700;
+}
+
+.location {
+    font-size: 12px;
+}
+
+.main-image {
+    width: 375px;
+    height: 375px;
+}
+
+.icon {
+    height: 23px;
+    margin: 0 10px;
+}
+
+.footer-section {
+    padding: 21px 10px;
 }
