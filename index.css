@@ -40,7 +40,6 @@ header {
 
 .name {
     font-size: 13px;
-    font-weight: 700;
 }
 
 .location {
@@ -54,9 +53,13 @@ header {
 
 .icon {
     height: 23px;
-    margin: 0 10px;
+    margin: 0 3px;
 }
 
 .footer-section {
     padding: 21px 10px;
+}
+
+.b {
+    font-weight: 700;
 }
